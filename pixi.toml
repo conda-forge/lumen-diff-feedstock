@@ -5,7 +5,7 @@
 
 [workspace]
 name = "lumen-diff-feedstock"
-version = "3.54.2"  # conda-smithy version used to generate this file
+version = "3.56.2"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/lumen-diff-feedstock"
 authors = ["@conda-forge/lumen-diff"]
 channels = ["conda-forge"]
