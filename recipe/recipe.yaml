@@ -1,5 +1,5 @@
 context:
-  version: "2.20.1"
+  version: "2.21.0"
 
 package:
   name: lumen-diff
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/jnsahaj/lumen/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: b4884cfd3be77d3f9f2bc14652c2e1bfcccc58023f77d3cb998e514e6ec52272
+  sha256: 5fdccffa924feecbfbd631713664b6ea2d6d2929a3fbbc4e7ffa78913a18347e
 
 build:
   number: 0
